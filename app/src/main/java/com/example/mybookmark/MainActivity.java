@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         //수정
         Toast.makeText(this, "Hello", Toast.LENGTH_SHORT).show();
 
+        //여기에 내용을 추가 수정 삭제할때마다
+
 
 
     }
